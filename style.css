@@ -1,11 +1,11 @@
 body{
-	background-image: url('love.png'); 
+	<!--background-image: url('love.png'); -->
 	}
 		
     #button {
     width: auto;
     height: 120px;
-	position: absolute;
+    position: absolute;
     top: calc(50% - 30px + 120px);
     left: calc(50% - 112px);
 
