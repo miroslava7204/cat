@@ -1,12 +1,14 @@
 body{
-	<!--background-image: url('love.png'); -->
-	}
+    /* background-image: url('love.png'); */
+	/*height: 500px;*/
+	/* cursor: w-resize; */
+	cursor: url(vestnik.png), auto;
+}
 		
-    #button {
+img {
     width: auto;
     height: 120px;
     position: absolute;
     top: calc(50% - 30px + 120px);
     left: calc(50% - 112px);
-
-    }
+}

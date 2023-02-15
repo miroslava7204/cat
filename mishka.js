@@ -17,3 +17,7 @@ function btnClick()
       document.getElementById("button").style.left = btnLeft + "px";
       document.getElementById("button").style.top = btnTop + "px";
     }
+
+function vestnik() {
+  document.body.style.cursor = "vestnik.png";
+}
