@@ -1,8 +1,5 @@
-body{
-    /* background-image: url('love.png'); */
-	/*height: 500px;*/
-	/* cursor: w-resize; */
-	cursor: url(vestnik.png), auto;
+html{
+	cursor: url('vestnik.png') 60 60, move;
 }
 		
 img {

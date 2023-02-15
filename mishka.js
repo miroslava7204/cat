@@ -19,5 +19,5 @@ function btnClick()
     }
 
 function vestnik() {
-  document.body.style.cursor = "vestnik.png";
+  document.body.style.button = "vestnik.png";
 }
