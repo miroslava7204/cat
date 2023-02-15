@@ -1,0 +1,11 @@
+html{
+	cursor: url('vestnik.png') 60 60, move;
+}
+		
+img {
+    width: auto;
+    height: 120px;
+    position: absolute;
+    top: calc(50% - 30px + 120px);
+    left: calc(50% - 112px);
+}
